@@ -34,4 +34,4 @@ Follow these instructions on how to [Create and view custom parsing rules](https
 "ip.countryName": "<location_data>"
 }
 
-## Check out our Map Widget to visualise the data! (TBD)
+## Check out our [Map Widget](https://github.com/newrelic/nr-labs-widget-pack#map-box-widget) to visualise the data!

@@ -1,0 +1,1 @@
+%{IP:ip:geo({"lookup":["city","region","regionName","countryCode","countryName","postalCode","latitude","longitude"]})}

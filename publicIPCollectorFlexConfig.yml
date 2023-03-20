@@ -1,0 +1,10 @@
+integrations:
+  - name: nri-flex
+    interval: 30s
+    config:
+      name: geoLocation
+      apis:
+        - event_type: geoLocation
+          shell: powershell
+          commands:
+            - run: '& "C:/Program Files/New Relic/newrelic-infra/integrations.d/publicIpCollector.ps1"'

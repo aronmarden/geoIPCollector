@@ -23,15 +23,15 @@ Follow these instructions on how to [Create and view custom parsing rules](https
   <code>
 
 {
-"ip.region": "<data>",
-"ip.regionName": "<data>",
-"ip.countryCode": "<data>",
-"ip.city": "<data>y",
-"ip.postalCode": "<data>",
-"ip.latitude": "<data>5",
-"ip.longitude": "<data>",
-"ip": "<data>",
-"ip.countryName": "<data>"
+"ip.region": "<location_data>",
+"ip.regionName": "<location_data>",
+"ip.countryCode": "<location_data>",
+"ip.city": "<location_data>",
+"ip.postalCode": "<location_data>",
+"ip.latitude": "<location_data>",
+"ip.longitude": "<location_data>",
+"ip": "<location_data>",
+"ip.countryName": "<location_data>"
 }
 
 ## Check out our Map Widget to visualise the data! (TBD)
